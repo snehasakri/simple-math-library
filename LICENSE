@@ -1,0 +1,28 @@
+
+Then press **Ctrl + S**.
+
+### What is README.md?
+
+`README.md` is the documentation of our software library. It tells other developers:
+
+- What the library is
+- What functions it provides
+- How to use it
+- Which version it is
+- What license it uses
+
+This is especially important when publishing the project on GitHub.
+
+### 📸 Screenshot 5
+
+Take a screenshot showing the **README.md file in VS Code**, preferably with the Features, Usage, Version, and License sections visible.
+
+This screenshot will be used for:
+
+> **Step 5: Create the README documentation**
+
+### Important
+
+Don't create the Git repository yet. We'll do that in **Step 6** after finishing the project files.
+
+Once you've pasted and saved `README.md`, tell me **“done”**.
