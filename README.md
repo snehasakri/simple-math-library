@@ -8,6 +8,7 @@ A simple reusable JavaScript library for basic mathematical operations.
 - Subtraction
 - Multiplication
 - Division
+- Square of a number
 - Division-by-zero validation
 
 ## Usage
